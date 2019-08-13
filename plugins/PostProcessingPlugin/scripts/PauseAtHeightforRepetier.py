@@ -38,7 +38,7 @@ class PauseAtHeightforRepetier(Script):
                 "head_move_Z":
                 {
                     "label": "Head move Z",
-                    "description": "The Hieght of Z-axis retraction before parking.",
+                    "description": "The Height of Z-axis retraction before parking.",
                     "unit": "mm",
                     "type": "float",
                     "default_value": 15.0
